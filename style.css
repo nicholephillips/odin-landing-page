@@ -11,6 +11,7 @@ body {
     border-top: none;
     border-left: none;
     border-right: none;
+    flex-shrink: none;
 }
 
 
@@ -75,6 +76,9 @@ h2 {
     max-width: 50%;
     max-height: 50%;
     margin: 25px;
+    border: #0D3538;
+    border-style: solid;
+    border-width: 15px;
 }
 
 img.pic-1 {
@@ -114,17 +118,18 @@ img.pic-1 {
     background-color: #807672;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .quote {
-    padding: 55px;
     font-size: 20px;
     color: white;
     font-style: italic;
     text-align: center;
     font-weight: lighter;
+    width: auto;
+    padding: 15px;
 }
 
 .strip-4 {
@@ -174,7 +179,7 @@ h3#NP {
     border: none;
     font-size: 18px;
     color: white;
-    padding: 15px;
+    padding: 8px;
 }
 
 .contact-button:hover {
