@@ -5,6 +5,8 @@ Landing Page | The Odin Project
 
 ### [Assignment Outline](https://www.theodinproject.com/lessons/foundations-landing-page)
 
+### [Live Preview of Landing Page](https://nicholephillips.github.io/odin-landing-page)
+
 The assignment provided a wireframe and general design properties to follow, and gave flexibility to utilize different colors, images and content:
 
 ![Wireframe Guideline](https://raw.githubusercontent.com/nicholephillips/odin-landing-page/master/images/wireframe.png)
