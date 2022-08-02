@@ -1,0 +1,71 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #fafafa;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+.contact-button {
+
+}
+
+.strip-2 {
+
+}
+
+.card {
+
+}
+
+.strip-3 {
+
+}
+
+.quote {
+
+}
+
+.strip-4 {
+
+}
+
+.cta-container {
+
+}
+
+footer {
+    display: flex;
+    background-color: #fafafa;
+    margin-top: auto;
+    align-items: center;
+    justify-items: center;
+}
