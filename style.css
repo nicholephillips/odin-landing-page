@@ -185,8 +185,9 @@ h3#NP {
 
 footer {
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
     background-color: #fafafa;
     margin-top: auto;
-    align-items: center;
-    justify-items: center;
 }
