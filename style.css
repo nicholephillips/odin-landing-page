@@ -40,7 +40,8 @@ a:hover {
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin: 25px;
+    font-size: large;
+    margin: auto;
     text-align: center;
 }
 
@@ -73,11 +74,26 @@ img.pic-1 {
 }
 
 .strip-2 {
+    display: flex;
+    background-color: #8c9482;
+    flex-direction: column;
+    padding: 15px;
+}
 
+.header-2 {
+   text-align: center;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .card {
-
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .strip-3 {
